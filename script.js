@@ -10,8 +10,7 @@ const musicList = [
     { name: "Dua Lipa Remaster", src: "dualiparemaster.mp3" },
     { name: "Super Power", src: "superpower.mp3" },
     { name: "Super Power Remaster", src: "superpowerremaster.mp3" },
-    { name: "Song 3", src: "music/song3.mp3" },
-    { name: "Song 3", src: "music/song3.mp3" },
+  
     
   ];
   
